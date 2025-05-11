@@ -1,7 +1,7 @@
 # Clinic Booking System Database
 
 ## ERD
-![Clinic Booking System ERD](clinic_Booking_System_ERD.png)
+![Clinic Booking System ERD](clinic-booking-system-ERD.png)
 
 ## Description
 A complete MySQL database implementation for a clinic booking system. This system manages:
